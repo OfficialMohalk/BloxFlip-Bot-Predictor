@@ -17,4 +17,5 @@ Youtube Tutorial: https://www.youtube.com/watch?v=Rluqc2K58Xw
 # How to use
 
 .crash
+
 .mines <amount> <round-id>
