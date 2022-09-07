@@ -18,4 +18,4 @@ Youtube Tutorial: https://www.youtube.com/watch?v=Rluqc2K58Xw
 
 .crash
 
-.mines <amount> <round-id>
+.mines (amount) (round-id)
