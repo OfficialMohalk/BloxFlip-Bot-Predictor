@@ -12,4 +12,4 @@ How to setup
 
 6) Start the bot "node index.js" The bot should be starting up and should display "Ready!"
 
-
+Youtube Tutorial: https://www.youtube.com/watch?v=Rluqc2K58Xw
